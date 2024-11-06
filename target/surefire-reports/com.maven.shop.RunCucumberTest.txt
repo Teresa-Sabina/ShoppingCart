@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.maven.shop.RunCucumberTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 71.472 s - in com.maven.shop.RunCucumberTest

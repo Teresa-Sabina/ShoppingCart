@@ -1,0 +1,11 @@
+/Users/lourdestssantiago/NetBeansProjects/my-cucum-project/src/test/java/com/maven/shop/pages/FinishPage.java
+/Users/lourdestssantiago/NetBeansProjects/my-cucum-project/src/test/java/com/maven/shop/pages/ProductPage.java
+/Users/lourdestssantiago/NetBeansProjects/my-cucum-project/src/test/java/com/maven/shop/pages/HomePage.java
+/Users/lourdestssantiago/NetBeansProjects/my-cucum-project/src/test/java/com/maven/shop/pages/CartPage.java
+/Users/lourdestssantiago/NetBeansProjects/my-cucum-project/src/test/java/com/maven/shop/utils/TestBase.java
+/Users/lourdestssantiago/NetBeansProjects/my-cucum-project/src/test/java/com/maven/shop/RunCucumberTest.java
+/Users/lourdestssantiago/NetBeansProjects/my-cucum-project/src/test/java/com/maven/shop/pages/CheckoutPage.java
+/Users/lourdestssantiago/NetBeansProjects/my-cucum-project/src/test/java/com/maven/shop/pages/ProductMenuPage.java
+/Users/lourdestssantiago/NetBeansProjects/my-cucum-project/src/test/java/com/maven/shop/utils/ExcelUtils.java
+/Users/lourdestssantiago/NetBeansProjects/my-cucum-project/src/test/java/com/maven/shop/utils/PageFactory.java
+/Users/lourdestssantiago/NetBeansProjects/my-cucum-project/src/test/java/com/maven/shop/stepDefinitions/ShoppingCartSteps.java
